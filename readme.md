@@ -1,4 +1,4 @@
-#h1 Chatbot
+#Chatbot
 
 In this project, i created a chatbot using the nltk library. The data used for chatbot is saved in the file "data.txt". I take a topic of "Artificial Intelligence" from the wikipedia and pasted it on "data.txt". Also we use tfidfVectorizer and Cosine similiarity is used.
 
