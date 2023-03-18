@@ -1,6 +1,6 @@
 # Chatbot using nltk
 
-In this project, i created a chatbot using the nltk library. The data used for chatbot is saved in the file "data.txt". I take a topic of "Artificial Intelligence" from the wikipedia and pasted it on "data.txt". Also we use tfidfVectorizer and Cosine similiarity is used.
+In this project, i created a chatbot using the nltk library. The data used for chatbot is saved in the file "data.txt". I take a topic of "Artificial Intelligence" from the wikipedia and pasted it on "data.txt". Also we use tfidfVectorizer and Cosine similiarity for to convert the text into the matrix of TF-IDF features and comparing the user_response with the matrix of TF-IDF features.
 
 1. At first install all the dependencies and import the essential libraries
 2. Then we import the data file
